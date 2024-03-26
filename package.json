@@ -13,8 +13,7 @@
     "express-handlebars": "^7.1.2",
     "init": "^0.1.2",
     "mongodb": "^6.5.0",
-    "mongoose": "^6.7.2"
-  
+    "mongoose": "^6.7.2"
   },
   "devDependencies": {},
   "description": ""
